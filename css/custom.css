@@ -1086,7 +1086,7 @@ header.main-header .header-sticky.active {
 
 .dry-clean-section {
 	padding: 100px 0;
-	background: url('/images/how-it-work-bg.jpg') no-repeat center center;
+	background: url('../images/how-it-work-bg.jpg') no-repeat center center;
 	background-size: cover;
 	position: relative;
 }
@@ -1697,7 +1697,7 @@ header.main-header .header-sticky.active {
 /*************************************/
 
 .page-header {
-	background-image: linear-gradient(90deg, #000000CC 20%, #FFFFFF00 100%), url(/images/sub-header-bg.jpg);
+	background-image: linear-gradient(90deg, #000000CC 20%, #FFFFFF00 100%), url(../images/sub-header-bg.jpg);
 	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
